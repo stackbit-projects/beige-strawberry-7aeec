@@ -10,7 +10,7 @@ header:
   title: MC Daugherty
   logo_img: images/logo.svg
   logo_img_alt: Ampersand Logo
-  has_nav: false
+  has_nav: true
   nav_links:
     - label: Home
       url: /
