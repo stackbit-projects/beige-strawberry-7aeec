@@ -29,13 +29,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I am a postdoc at the National Institute of Standards and Technology (NIST) focusing on neutron imaging of lithium batteries. I have works published in Electrochemica Acta, Nanoscale and the Journal of Power Sources.  My dissertation work focused on vanadium redox flow batteries while my bachelors degree was in mechanical engineering.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+My research interests include: electrochemistry, mass transfer in porous media, lattice Boltzmann method, high performance computing, GPU computing, and neural networks.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As hobbies, I play music guitar and banjo primarily, but also bass/double bass, mandolin and drums. I am also a vim enthusiast and a fan of posix computing.
 
 *Thank You for reading!*
