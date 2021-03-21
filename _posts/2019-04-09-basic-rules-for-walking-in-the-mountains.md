@@ -40,7 +40,7 @@ layout: post
 thumb_img_path: images/311822e9480c04824493b7453cecabe0.jpg
 excerpt: Unbelievable groove on this one
 ---
-\[Link to the tutorial]\(https://www.youtube.com/watch?v=gtrxHx9LLVc)
+[Link to the tutorial](https://www.youtube.com/watch?v=gtrxHx9LLVc)
 
 "Wolf Eats Wolf"
 by Tony Allen
