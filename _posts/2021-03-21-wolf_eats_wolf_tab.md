@@ -5,7 +5,7 @@ thumb_img_alt: Tony Allen
 content_img_alt: Tony Allen
 excerpt: >-
   Unbelievable groove on this one.  If you can get the cross-picking going the
-  speed will 
+  speed will come 
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
