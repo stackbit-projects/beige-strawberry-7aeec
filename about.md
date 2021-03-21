@@ -1,6 +1,5 @@
 ---
 title: About Me
-img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
