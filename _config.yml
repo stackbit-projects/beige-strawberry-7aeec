@@ -8,7 +8,7 @@ layout_style: grid
 palette: green
 header:
   title: MC Daugherty
-  logo_img: images/logo.svg
+  logo_img: images/logo.png
   logo_img_alt: Ampersand Logo
   has_nav: true
   nav_links:
