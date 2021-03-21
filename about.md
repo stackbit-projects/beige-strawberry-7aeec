@@ -33,6 +33,6 @@ I am a postdoc at the National Institute of Standards and Technology (NIST) focu
 
 My research interests include: electrochemistry, mass transfer in porous media, lattice Boltzmann method, high performance computing, GPU computing, and neural networks.
 
-As hobbies, I play music guitar and banjo primarily, but also bass/double bass, mandolin and drums. I am also a vim enthusiast and a fan of posix computing.
+As hobbies, I play music guitar and banjo primarily, but also bass/double bass, mandolin and drums. I am also a vim enthusiast and a fan of unix-based computing.
 
 *Thank You for reading!*
