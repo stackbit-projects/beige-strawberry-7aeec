@@ -2,8 +2,8 @@
 title: Home
 has_intro: true
 intro_content: >
-  This is a site about stuff 'n' things mostly music tutorials and explorations
-  in coding.
+  This is a site about stuff 'n' things mostly and explorations in coding and
+  music tutorials.
 intro_actions:
   - label: Learn More
     url: /about
