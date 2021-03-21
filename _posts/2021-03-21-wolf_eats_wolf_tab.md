@@ -3,7 +3,7 @@ title: '"Wolf Eats Wolf" Guitar Tab'
 date: '2021-03-21'
 thumb_img_alt: Tony Allen
 content_img_alt: Tony Allen
-excerpt: 'Unbelievable groove on this one. '
+excerpt: Unbelievable groove on this one. Buckle up.
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
