@@ -1,6 +1,6 @@
 ---
 title: '"Wolf Eats Wolf" Guitar Tab'
-subtitle: lorem-ipsum
+subtitle: 'Couldn''t resist after I heard '
 date: '2021-03-21'
 thumb_img_alt: Tony Allen
 content_img_alt: Tony Allen
