@@ -1,7 +1,7 @@
 ---
 title: '"Wolf Eats Wolf" Guitar Tab'
 date: '2019-04-09'
-thumb_img_alt: A man stand
+thumb_img_alt: Tony Allen
 content_img_path: images/robust-lavender.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
