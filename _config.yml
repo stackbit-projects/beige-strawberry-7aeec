@@ -80,4 +80,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://beige-strawberry-7aeec.netlify.app'
+domain: 'https://mc_daugherty.netlify.app'
