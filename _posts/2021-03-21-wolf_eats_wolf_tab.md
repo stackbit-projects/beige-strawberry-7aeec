@@ -46,6 +46,8 @@ thumb_img_path: images/311822e9480c04824493b7453cecabe0.jpg
 
 [Link to the tutorial](https://www.youtube.com/watch?v=gtrxHx9LLVc)
 
+The key to this track is the cross-picking for the main lick.  It's deceptively counted but once you have the picking down you can just step the tempo up incrementally until you can play with the record.
+
 "Wolf Eats Wolf"
 by Tony Allen
 
